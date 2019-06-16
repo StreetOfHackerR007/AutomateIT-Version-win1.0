@@ -92,7 +92,7 @@ requirements()
 print('[+] Wait While Loading Dependencies...!')
 print('[+] Scan QR Code')
 
-driver = webdriver.Chrome('../chromedriver.exe')
+driver = webdriver.Chrome('chromedriver.exe')
 driver.maximize_window()
 driver.get('https://web.whatsapp.com')
 
