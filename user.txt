@@ -1,0 +1,9 @@
+Enter the person's name or group name and 
+seprate them by entering names in new line
+
+For Example : 
+-------------------
+STREET_OF_HACKER - GROUP
+Group of white hat hackers
+Mark zuckerberg
+Dannies ritchie
