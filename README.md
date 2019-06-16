@@ -54,7 +54,7 @@ AutomateIT for Whatsapp tool is created to save your lot of time.
 • THAT'S ALL...!
 
 # JOIN US
-Telegram  : https://t.me/StreetOfHackerR007/ 
+Telegram  : https://t.me/StreetOfHackerR007/   &
             https://t.me/realworldhacker/
 
 Instagram : https://instagram.com/street_of_hacker/
