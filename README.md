@@ -67,4 +67,10 @@ Twitter   : https://twitter.com/streetofhacker
 
 # Video Tutorial - How To Use AutomateIT For WhatsApp
 
-[![](screenshot.png)](https://vimeo.com/3514904 "Click To Watch Full Tutorial")
+click On Below Image to Watch Video
+
+[![](https://scontent-frt3-2.cdninstagram.com/vp/50ccc2da25944fd8630085ad9ea3a61f/5D832F28/t51.2885-15/e35/60593961_364467630809124_4747498077628157161_n.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com&se=7&ig_cache_key=MjA1NzMxMjM2NDY5MjY4NjQ2OQ%3D%3D.2)](https://youtu.be/iPnpK35LImA "Click To Watch Full Tutorial")
+
+OR
+
+Click On This Link : https://youtu.be/iPnpK35LImA
